@@ -27,7 +27,6 @@ Python 3.12.x
 All Required Python Packages
 Installation (Code)
 Clone the repository:
-git clone https://github.com/Nikolai558/AutoClicker.git
 cd AutoClicker
 Install the required packages:
 pip install -r requirements.txt
